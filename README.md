@@ -3,9 +3,7 @@
 <div align="center">
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;The+truth+is…+I+am+Iron+Man" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;The+truth+is…+I+am+Iron+Man" /> </a>
 
 ### ⚡ *Suit Up. Code Hard.* ⚡
 
