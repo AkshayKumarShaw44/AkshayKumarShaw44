@@ -64,9 +64,9 @@ Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-```
 
 ## 🚀 Current Missions
+```
 
 ╔═══════════════════════════════════════════════════╗
 ║ 💪 Building Android apps with Kotlin & Compose    ║
