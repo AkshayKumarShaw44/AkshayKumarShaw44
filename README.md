@@ -69,10 +69,10 @@ Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusi
 ## 🚀 Current Missions
 
 ╔═══════════════════════════════════════════════════╗
-║ 🔹 Building Android apps with Kotlin & Compose ║
-║ 🔹 Creating Full-Stack Web Projects ║
-║ 🔹 Improving Problem Solving & DSA skills ║
-║ 🔹 Exploring Cloud & Databases ║
+║ 💪 Building Android apps with Kotlin & Compose    ║
+║ 💻 Creating Full-Stack Web Projects               ║ 
+║ 🧠 Improving Problem Solving & DSA skills         ║
+║ 📊 Exploring Cloud & Databases                    ║
 ╚═══════════════════════════════════════════════════╝
 
 
