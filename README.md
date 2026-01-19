@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<div align="center">
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;The+truth+is…+I+am+Iron+Man" /> </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;Sometimes+You+Have+To+Run+Before+You+Can+Walk" />
+</a>
 
 ### ⚡ *Suit Up. Code Hard.* ⚡
 
@@ -63,8 +64,10 @@ Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
+---
 
 ## 🚀 Current Missions
+
 
 
 ```
