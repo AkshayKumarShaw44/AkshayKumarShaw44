@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-<img align="right" width="260" src="https://64.media.tumblr.com/8be189885e0dbc0b162f0de755656c9f/188755c3106a6396-32/s540x810/23ced9837b6ea0b2f8658ef2b6269fd991376362.gif"/>
+<img align="right" width="260" src="https://giffiles.alphacoders.com/222/222341.gif"/>
 
 Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusiast**. I love building **web and mobile applications**, learning new technologies, and solving challenging problems.  
 
