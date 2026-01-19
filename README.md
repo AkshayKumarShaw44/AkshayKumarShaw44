@@ -18,7 +18,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-Hi, I’m **Khushi Dhir**, a **Computer Science student & aspiring software developer** with a strong interest in **building real-world applications** across web and mobile platforms.
+Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & aspiring software developer** with a strong interest in **building real-world applications** across web and mobile platforms.
 
 I enjoy breaking down problems, understanding how systems work, and gradually improving the quality of my code with every project.
 
