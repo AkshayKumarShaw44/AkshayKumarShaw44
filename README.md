@@ -1,128 +1,141 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF6A00&height=140&section=header&text=Built%20Not%20Born&fontSize=38&fontColor=ffffff&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FFD700&height=120&section=header" alt="header"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=700&color=FF6A00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Problem+Solver+%7C+Builder+%7C+Learner;Code+is+My+Superpower" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Khushi+Dhir;Aspiring+Software+Engineer;Building+Ideas+Into+Reality;Sometimes+You+Have+To+Run+Before+You+Can+Walk" />
 </a>
 
-### *“Genius, billionaire, philanthropist… okay maybe just a coder for now.”* 😄
+### *Built with Logic. Powered by Curiosity.* ⚙️
 
 </div>
 
 ---
 
-## 🧠 About Me — The Person Behind the Code
+## 🎓 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"/>
+<img align="right" width="260" alt="Iron Man Coding" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-Hey! 👋  
-I’m **Akshay Kumar Shaw**, a developer who genuinely enjoys the process of **learning, building, failing, fixing, and improving**.
+Hi, I’m **Khushi Dhir**, a **Computer Science student** passionate about turning ideas into working software.  
+I enjoy solving problems, building applications, and continuously improving my technical skills through hands-on projects.
 
-I didn’t wake up one day knowing how to code —  
-just like Iron Man didn’t start with a perfect suit.
+I believe engineering is not just about writing code — it’s about **thinking clearly, designing well, and improving consistently**.
 
-> *“I’m a big fan of books. There’s pictures.”* — Tony Stark 😌
+> *“If you’re nothing without the suit, then you shouldn’t have it.”* — **Tony Stark**
 
-### What actually drives me:
-- 🧩 Solving problems that *don’t* have obvious answers
-- ⚛️ Turning ideas into working React applications
-- 🧠 Improving logic through **DSA & consistent practice**
-- 🔁 Believing that **small daily progress beats motivation**
-
-I’m not chasing perfection —  
-I’m chasing **progress**.
+### My Journey So Far:
+- 💻 Strengthening fundamentals in **DSA & Core Programming**
+- 🌐 Actively learning **Web & Full-Stack Development**
+- 🔧 Building projects that focus on **clarity, usability, and scalability**
+- 📈 Improving every day through practice and experimentation
+- 🎯 Goal: Become a developer who builds **impactful and reliable software**
 
 <br clear="right"/>
 
 ---
 
-## ⚙️ My Engineering Mindset
+## 🛠️ <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
-I believe good developers are not born.
-They are built — line by line, bug by bug.
+<img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
+### 💡 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-> *“Sometimes you gotta run before you can walk.”* — Tony Stark
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 
-- 💡 Learn the fundamentals deeply  
-- 🛠️ Build real things, not just tutorials  
-- 🧪 Break code → understand why → fix it  
-- 📈 Repeat, consistently  
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
 
----
-
-## 🛠️ Tech I Work With (Stark Industries Lab)
-
-<img align="right" width="330" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Tools
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 <br clear="right"/>
 
 ---
 
-## 📊 Arc Reactor Status (GitHub Activity)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Growth in Motion (Contribution Snake)
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌐 Let’s Connect
+## 🌐 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FF6A00?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushi-dhir-379125279/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/khushidhir3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/khushi_dhir_3/)
 
 </div>
 
 ---
 
-## 🧾 Final Thought
+## 🏆 Achievements & Goals
 
-> *“Part of the journey is the end.”* — Tony Stark
+╔════════════════════════════════════════════════════╗
+║ ⚡ Strong Programming Fundamentals                  ║
+║ 🧠 Consistent DSA Practice                         ║
+║ 🌐 Web & Full-Stack Project Development            ║
+║ 🚀 Goal: Build Software That Solves Real Problems  ║
+╚════════════════════════════════════════════════════╝
 
-But for me —  
-this is just the **beginning**.
-
-I’m here to learn, build, and become better than yesterday.  
-If you scrolled this far — thanks.  
-That already says something about you. 🤝
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:8B0000&height=120&section=footer" />
+## 📊 GitHub Performance
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khushidhir3&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushidhir3&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://github.com/khushidhir3/khushidhir3/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💭 A Line I Code By
+
+<div align="center">
+
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│ "Everyone fails at who they are supposed to be.              │
+│ The real measure is who you choose to become."               │
+│                                                              │
+│ — Iron Man (Marvel)                                          │
+└──────────────────────────────────────────────────────────────┘
+
+
+</div>
+
+---
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center">
+
+### ⚙️ *Code. Improve. Repeat.* ⚡
+
+<img src="https://komarev.com/ghpvc/?username=khushidhir3&color=8B0000&style=flat-square&label=Profile+Views"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:8B0000&height=120&section=footer" alt="footer"/>
