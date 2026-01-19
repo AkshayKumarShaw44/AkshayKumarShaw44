@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif](https://media.tenor.com/3Lcbrrx8L7IAAAAM/ready-to-go.gif"/>
 
 Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusiast**. I love building **web and mobile applications**, learning new technologies, and solving challenging problems.  
 
