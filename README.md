@@ -139,3 +139,14 @@ I believe engineering is not just about writing code — it’s about **thinking
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:8B0000&height=120&section=footer" alt="footer"/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="160"/>
+
+### ⚡ SYSTEM STATUS: ONLINE  
+### 🧠 MODE: LEARNING & BUILDING  
+### 🔋 POWER SOURCE: CURIOSITY  
+
+</div>
+
