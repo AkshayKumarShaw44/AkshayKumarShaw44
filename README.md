@@ -1,110 +1,127 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=740001&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FFD700&height=120&section=header" alt="header"/>
 
 <div align="center">
+
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4000&pause=500&color=740001&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Akshay+Kumar+Shaw!;Aspiring+Tech+Hero+%F0%9F%92%A5;Welcome+to+My+Stark+Repository!;Iron+Man+Mode+Activated+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;Sometimes+You+Have+To+Run+Before+You+Can+Walk" />
 </a>
 
-### *Jarvis is watching* ⚡
+### ⚡ *Suit Up. Code Hard.* ⚡
+
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="160" alt="Arc Reactor"/>
 
 </div>
 
 ---
 
-## 🎓 <img src="https://media.tenor.com/26253062.gif" width="35"> About Me
+## 🎓 About Me
 
-<img align="right" width=250px alt="Arc Reactor" src="https://media.tenor.com/26253062.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif"/>
 
-Greetings! I'm **Akshay Kumar Shaw**, a tech enthusiast and aspiring **full-stack developer & Android engineer**. I love building **efficient, scalable, and sleek apps** that would make Tony Stark proud.  
+Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusiast**. I love building **web and mobile applications**, learning new technologies, and solving challenging problems.  
 
-> *"Sometimes you gotta run before you can walk."* — Iron Man  
+> *“Sometimes you gotta run before you can walk.”* — Tony Stark, Iron Man
 
-**My Journey So Far:**
-- 🔹 Building Android apps with **Kotlin & Jetpack Compose**
-- 🔹 Developing **Full-Stack Web Applications** (React, Node.js, MERN)
-- 🔹 Improving **DSA & problem-solving skills** daily
-- 🔹 Exploring **Cloud platforms & databases** (PostgreSQL & MongoDB)
-- 🔹 Experimenting with **TypeScript** and modern frameworks
-- 🌱 Passionate about clean, efficient code and innovative solutions
-
-<br clear="right"/>
-
----
-
-## 🛠 <img src="https://media.tenor.com/26253062.gif" width="30"> My Tech Arsenal
-
-<img align="right" width=340px height=250px alt="Tech GIF" src="https://media.tenor.com/26253062.gif"/>
-
-### 💻 Languages & Frameworks
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚡ Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-%2300D9FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300D9FF.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+### What I focus on:
+- 💻 Writing **clean, readable, and scalable code**
+- 🌐 Developing **modern web applications**
+- 📱 Building **Android apps with Kotlin & Jetpack Compose**
+- 🧠 Strengthening **DSA & problem-solving**
+- 🚀 Learning by doing and building real-world projects
 
 <br clear="right"/>
 
 ---
 
-## 📡 Current Missions
+## 🦾 My Tech Armor
 
-╔════════════════════════════════════════════════════╗
-║ 🔹 Build Android apps with Kotlin & Compose        ║
-║ 🔹 Create Full-Stack Web Projects                  ║
-║ 🔹 Improve Problem Solving & DSA Skills            ║
-║ 🔹 Explore Cloud & Databases (PostgreSQL/Mongo)    ║
-║ 🔹 Experiment with TypeScript & Modern Frameworks  ║
-╚════════════════════════════════════════════════════╝
+### 📜 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Web & Mobile Tech
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🚀 Current Missions
+
+╔═══════════════════════════════════════════════════╗
+║ 🔹 Building Android apps with Kotlin & Compose ║
+║ 🔹 Creating Full-Stack Web Projects ║
+║ 🔹 Improving Problem Solving & DSA skills ║
+║ 🔹 Exploring Cloud & Databases ║
+╚═══════════════════════════════════════════════════╝
 
 
+
+> *“The truth is… I am Iron Man.”* — Confidence comes from preparation.
+
+---
+
+## 📊 GitHub Armor Status
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkshayKumarShaw&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKumarShaw&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-shaw/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/AkshayKumarShaw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/akshay_shaw/)
+
+</div>
 
 ---
 
 ## 💬 Words I Code By
 
+"Sometimes you gotta run before you can walk."
+"Part of the journey is the end."
+"If you can do good things for other people, you should."
+"Heroes are made by the paths they choose, not the powers they are graced with."
+
+— **Marvel Cinematic Universe**
 
 ---
-
-## 🦾 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AkshayKumarShaw&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKumarShaw&theme=radical" />
+
+<img src="https://komarev.com/ghpvc/?username=AkshayKumarShaw&color=8B0000&style=flat-square&label=Profile+Views"/>
+
+### ⚡ Suit Up. Build. Improve. Repeat. ⚡
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:8B0000&height=120&section=footer" alt="footer"/>
 
-## 🌟 My Coding Philosophy
-
-Like Stark’s tech, I build code that **adapts, innovates, and empowers**.  
-I believe in:
-
-- 🔹 **Innovation First**: Always push boundaries
-- 🔹 **Clean Code**: Write maintainable & scalable solutions
-- 🔹 **Problem Solving**: Efficient & logical solutions
-- 🔹 **Teamwork & Mentorship**: Helping others level up
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=740001&height=120&section=footer" alt="footer"/>
