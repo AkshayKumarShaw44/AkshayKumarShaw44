@@ -110,13 +110,13 @@ Hi, I’m **Akshay Kumar Shaw**, a **Computer Science student & software enthusi
 ## 💬 Words I Code By
 
 ```
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║ ➡️ Sometimes you gotta run before you can walk."                                   ║
-║ ➡️ Part of the journey is the end."                                                ║
-║ ➡️ If you can do good things for other people, you should."                        ║
-║ ➡️ Heroes are made by the paths they choose, not the powers they are graced with." ║
-║ — **Marvel Cinematic Universe**                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
+                                          ╔════════════════════════════════════════════════════════════════════════════════════╗
+                                          ║ ➡️ Sometimes you gotta run before you can walk."                                   ║
+                                          ║ ➡️ Part of the journey is the end."                                                ║
+                                          ║ ➡️ If you can do good things for other people, you should."                        ║
+                                          ║ ➡️ Heroes are made by the paths they choose, not the powers they are graced with." ║
+                                          ║ — **Marvel Cinematic Universe**                                                    ║
+                                          ╚════════════════════════════════════════════════════════════════════════════════════╝
 
 ```
 
