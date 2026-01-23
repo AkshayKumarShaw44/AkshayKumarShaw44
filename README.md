@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akshay+Kumar+Shaw;Aspiring+Software+Engineer;Web+%7C+Android+%7C+Problem+Solver;The+truth+is…+I+am+Iron+Man" />
 </a>
 
-### ⚡ *Suit Up. Code Hard.* ⚡
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="260" alt="Arc Reactor"/>
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="160" alt="Arc Reactor"/>
+### ⚡ *Suit Up. Code Hard.* ⚡
 
 </div>
 
