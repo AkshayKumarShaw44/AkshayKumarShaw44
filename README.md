@@ -8,7 +8,7 @@
 
 ### ⚡ *Suit Up. Code Hard.* ⚡
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160" alt="Arc Reactor"/>
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="160" alt="Arc Reactor"/>
 
 </div>
 
