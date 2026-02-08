@@ -97,15 +97,15 @@
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:akshaykumarshaw44@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.instagram.com/your_username/">
+<a href="https://www.instagram.com/akshay_kr_shaw/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://twitter.com/your_username">
+<a href="https://twitter.com/akshaykrshaw">
   <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
