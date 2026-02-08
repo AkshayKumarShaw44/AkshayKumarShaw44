@@ -76,7 +76,7 @@
 
 <table> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayKumarShaw44&theme=radical" height="150" alt="stats graph" /> </td> <td align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKumarShaw44&theme=radical&hide_border=true" height="150" alt="streak graph" /> </td> </tr> </table>
 
-<a href="https://www.google.com/search?q=https://leetcode.com/u/Akshay_Kumar_Shaw44/"> <img src="https://leetcard.jacoblin.cool/Akshay_Kumar_Shaw44?theme=dark&font=Noto%20Sans%20Elymaic&ext=heatmap" alt="LeetCode Stats" /> </a>
+<a href="https://www.google.com/search?q=https://leetcode.com/u/Akshay_Kumar_Shaw44/"> <img src="https://leetcard.jacoblin.cool/Akshay_Kumar_Shaw44?theme=transparent&font=Noto%20Sans%20Elymaic&ext=heatmap" alt="LeetCode Stats" /> </a>
 
 </div>
 
